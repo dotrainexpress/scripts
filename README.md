@@ -4,10 +4,14 @@
 A collection of various scripts and tools I've put together.
 <br>
 <br>
-<strong>Artifact</strong>
+<strong>forensics_mountE01_toLinux.py</strong>
+<li>Written in Python3 - script to quickly mount image file to SIFT/linux for file system browsing and artifact collections</li>
 <br>
 <br>
-
+<strong>artifact_collection_windows.py</strong>
+<li>Written in Python3 - script to collect evidence from a mounted image file in SIFT/linux</li>
+<br>
+<br>
 <strong>rot_decoder.py</strong>
 <li>Written in Python3 - will prompt for encoded string and output all possible rot ciphers</li>
 <br>Example:<br>
